@@ -1,0 +1,7 @@
+Change Log
+===========
+
+0.0.2 (5/3/2021)
+-----------------
+-Second release
+-Removed csv dependency
