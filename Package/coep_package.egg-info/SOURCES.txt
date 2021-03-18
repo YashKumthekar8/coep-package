@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+coep_package/__init__.py
+coep_package/csv.py
+coep_package/latex.py
+coep_package.egg-info/PKG-INFO
+coep_package.egg-info/SOURCES.txt
+coep_package.egg-info/dependency_links.txt
+coep_package.egg-info/top_level.txt

@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: coep-package
+Version: 0.0.1
+Summary: to create csv file and create latex code
+Home-page: UNKNOWN
+Author: Rohan Pol
+Author-email: rohanpol36@gmail.com
+License: MIT
+Description: This is a Python package which will help do 2 things
+        1. Create a csv file for the MCQ format questions
+        2. It will give Latex formatter function
+        
+        Change Log
+        ===========
+        
+        0.0.2 (5/3/2021)
+        -----------------
+        -Second release
+        -Removed csv dependency
+Keywords: coep
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
